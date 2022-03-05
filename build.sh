@@ -6,4 +6,5 @@ nvm install 14
 nvm use 14
 
 # build app
+npm install
 npm run build
